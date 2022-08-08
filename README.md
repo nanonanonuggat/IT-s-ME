@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nanonanonuggat
+- 👋 Hi, I’m Ghalib Farras Ahmad 
 - 👀 I’m interested in Network Engineering
 - 🌱 I’m currently learning System Administration
 - 💞️ I’m looking to collaborate on ...
