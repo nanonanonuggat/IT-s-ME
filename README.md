@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ghalib Farras Ahmad 
 - 👀 I’m interested in Network Engineering
-- 🌱 I’m currently learning System Administration
+- 🌱 I’m currently learning Network System Administration
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
